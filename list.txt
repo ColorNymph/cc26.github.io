@@ -1,0 +1,4 @@
+三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+東森新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+非凡新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+東森電影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
